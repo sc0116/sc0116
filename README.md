@@ -7,6 +7,7 @@
 - Algorithm
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0116&&show_icons=true&theme=merko) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aksen98011)](https://solved.ac/aksen98011/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
