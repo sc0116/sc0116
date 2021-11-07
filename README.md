@@ -1,13 +1,4 @@
-> ::Backend Developer:: 백엔드 개발자를 꿈꾸는 대학생
-## Introduction 🌸
-
-## Skills 👨🏻‍💻
-- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-- Algorithm
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sc0116&&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sc0116&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aksen98011)](https://solved.ac/aksen98011/)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seung%20Cheol's%20GitHub&fontSize=30)
 
 <!--
 **sc0116/sc0116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">👋 Hi there 👋</h3>
+<p align="center">
+I'm Seungcheol Shin, a steadily growing backend developer. 🌱 <br>
+I want to be a person who grows together. 🌳
+</p>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+</p>
+
+<h3 align="center">•••</h3>
+<p align="center">
+  <a href="https://velog.io/@sc_shin">
+    <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@sc_shin"/>
+  </a>
+  <a href="mailto:ssc6839@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ssc6839@gmail.com"/>
+  </a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
