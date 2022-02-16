@@ -21,6 +21,11 @@ I'm Seungcheol Shin, a steadily growing backend developer. 🌱 <br>
 I want to be a person who grows together. 🌳
 </p>
 
+<h3 align="center">📖 Education 📖</h3>
+<ul align="center">
+우아한테크코스 4기 Backend (2022.02 ~)
+</ul>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
