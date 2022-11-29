@@ -44,6 +44,7 @@ I want to be a person who grows together. 🌳
 
 <h3 align="center">•••</h3>
 <p align="center">
+  <!--
   <a href="https://velog.io/@sc_shin">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@sc_shin"/>
   </a>
@@ -51,6 +52,7 @@ I want to be a person who grows together. 🌳
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ssc6839@gmail.com"/>
   </a>
   <br>
+-->
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsc0116&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/>
   </a>
